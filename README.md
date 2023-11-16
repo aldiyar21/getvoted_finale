@@ -7,7 +7,7 @@
 Frontend: React.JS, HTML, CSS, JavaScript                                                   
 Backend: Solidity, Truffle, Ganache
 
-# Documentation
+# Documentation and Financial Analysis
 All the documentation can be found in report of the project in files
 
 # How to run the project:
